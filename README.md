@@ -21,4 +21,4 @@ This is the source code for "Active Mechanical Haptics with High-Fidelity Stiffn
 
 
 ## NOTE
-  * If you want to download this project, please use the LFS
+  * If you want to download this project, please input command "git lfs clone ..." by the terminals 
