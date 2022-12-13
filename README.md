@@ -18,3 +18,7 @@ This is the source code for "Active Mechanical Haptics with High-Fidelity Stiffn
  ## 3.Hardware
 ### 3.1 Usage
   This circuit is designed by AD, the project files are provided.
+
+
+## NOTE
+  * If you want to download this project, please use the LFS
