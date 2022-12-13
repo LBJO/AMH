@@ -17,7 +17,7 @@ This is the source code for "Active Mechanical Haptics with High-Fidelity Stiffn
     * Ice surface
  ## 3.Hardware
 ### 3.1 Usage
-  This circuit is designed by AD, the project files are provided.
+  * This circuit is designed by AD, the project files are provided.
 
 
 ## NOTE
