@@ -1,5 +1,5 @@
-## In-Hand device and Stepping device data for controll and virtual scenes display
-This is the source code for "Active Mechanical Haptics with High-Fidelity Stiffness Perceptions for Immersive Virtual Reality" to be published on Nature Machine Intelligence.
+## In-Hand device and Stepping device data for control and virtual scenes display
+This is the source code for "Active Mechanical Haptics with High-Fidelity Perceptions for Immersive Virtual Reality" to be published on Nature Machine Intelligence.
 ## 1.Controller Scripts
   * Software: Keil uvision5 MDK
 ## 2.UnityProject
